@@ -11,8 +11,8 @@ This repository demonstrates how to use the **Segment Anything Model (SAM)** for
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/sejalsahu01/SAM-Segmentation-PyQt5
+cd SAM-Segmentation-PyQt5
 ```
 
 ### 2. Install Dependencies
